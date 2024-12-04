@@ -5,4 +5,5 @@ Alongside five other students in the 2023-2024 cohort of MIT's Break Through Tec
 - MatrixFactorization.ipynb: the Python code used to generate restaurant recommendations for users
 - UsersRestaurantRatingsNew.csv: the dataset containing users' overall ratings, food ratings, and service ratings of restaurants
 - UsersRestaurantRatingsMatrix.csv: the sparse matrix of user ratings with 138 rows (users) and 130 columns (restaurants)
-- Maura Anish AI Studio Project Write-Up.pdf: the summary of the project
+- Maura Anish AI Studio Project Write-Up.pdf: the written summary of the project
+- AI Studio Project Presentation.pdf: the presentation given on the Matrix Factorization and Content-Based Filtering methods used in the project
